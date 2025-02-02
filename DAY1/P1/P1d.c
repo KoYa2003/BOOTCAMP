@@ -1,3 +1,10 @@
+// Character Triangle
+// A
+// AB
+// ABC
+// ABCD
+// ABCDE
+
 #include <stdio.h>
 
 int main(){
