@@ -1,3 +1,9 @@
+// Inverted Right Angled Triangle
+// *****
+// ****
+// ***
+// **
+// *
 #include <stdio.h>
 
 int main(){
