@@ -1,3 +1,11 @@
+//Program to print this pattern
+* * * * * * 
+ *       *
+  *     *
+   *   *
+    * *
+     *
+
 #include <stdio.h>
 
 int main() {
