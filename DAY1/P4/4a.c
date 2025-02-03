@@ -1,4 +1,4 @@
-//Program to print this pattern
+//Program to print "Hollow Pyramid Star Pattern"
      *      
     * *     
    *   *    
