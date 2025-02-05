@@ -1,3 +1,5 @@
+//program to find integers a, b such that n = a³ x b, where b is cube-fre 
+
 #include <math.h>
 #include <stdio.h>
 
