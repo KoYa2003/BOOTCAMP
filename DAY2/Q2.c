@@ -1,13 +1,27 @@
+//Program to find the largest of three numbers 
+
 #include<stdio.h>
 int main(){
-    int a;
-    printf("Enter a no.");
-    scanf("%d",&a);
-    if(a%2==0){
-        printf("No is even");
+    int a,b,c;
+    printf("Enter a,b,c: ");
+    scanf("%d %d %d",&a,&b,&c);
+
+    //using for loop
+    if (a>b){
+        if(a>c){
+            printf("A is greatest");
+        }
+        else {
+            printf("C is greatest");
+        }
     }
-    else{
-        printf("No is odd");
+    else{ 
+        if (b>c){
+        printf("B is greatest");
+        }
+        else {
+            printf("C is greatest");
+        }
     }
 
 }
