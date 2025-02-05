@@ -1,3 +1,5 @@
+//program to check for a vowel or consonant using switch-case 
+
 #include <stdio.h>
 
 int main() {
