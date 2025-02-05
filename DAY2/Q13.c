@@ -1,3 +1,5 @@
+//program to calculate the GCD and LCM of two numbers 
+
 #include <math.h>
 #include <stdio.h>
 
