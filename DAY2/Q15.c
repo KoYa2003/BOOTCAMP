@@ -1,5 +1,5 @@
-//prime number 1 to N
-//prime
+//program to generate all prime numbers between 1 and N 
+
 #include<stdio.h>
 int main(){
     int n,isPrime;
