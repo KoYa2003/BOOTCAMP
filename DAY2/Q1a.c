@@ -1,18 +1,15 @@
-#include <stdio.h>
+//Program to check if number is even or odd
 
-int main() {
-    int n;
-
-    printf("Enter a number: ");
-    scanf("%d", &n);
-
-    if (n > 0) {
-        printf("The number is positive");
-    } else if (n < 0) {
-        printf("The number is negative");
-    } else {
-        printf("The number is zero");
+#include<stdio.h>
+int main(){
+    int a;
+    printf("Enter a no.");
+    scanf("%d",&a);
+    if(a%2==0){
+        printf("No is even");
+    }
+    else{
+        printf("No is odd");
     }
 
-    return 0;
 }
