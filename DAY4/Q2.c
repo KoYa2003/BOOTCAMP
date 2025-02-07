@@ -1,3 +1,4 @@
+//program to check if an array is sorted
 #include <stdio.h>
 
 int main(){
